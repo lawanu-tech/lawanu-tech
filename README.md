@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lawanu-tech
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @LinkenIn
 
 <!---
